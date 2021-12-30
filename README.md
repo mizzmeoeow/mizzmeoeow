@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mizzmeoeow
 - 👀 I’m interested in coding, gaming, art, puzzles, food, and new experiences!
-- 🌱 I’m currently learning more React and wherever else this world takes me next.
+- 🌱 I’m currently learning more React and interested in Game Development.
 - 💞️ I’m looking to collaborate on Full Stack Development.
 - 📫 How to reach me:  
 <SCRIPT TYPE="text/javascript">
