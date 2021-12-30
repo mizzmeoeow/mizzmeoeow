@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mizzmeoeow
+- 👋 Hi, I’m Shanna, Full Stack Developer and aspiring Game Developer.
 - 👀 I’m interested in coding, gaming, art, puzzles, food, and new experiences!
 - 🌱 I’m currently learning more React and interested in Game Development.
-- 💞️ I’m looking to collaborate on Full Stack Development.
+- 💞️ I’m looking to collaborate on Full Stack Development, App Development, or Game Development.
 - 📫 How to reach me:  
 <SCRIPT TYPE="text/javascript">
 
